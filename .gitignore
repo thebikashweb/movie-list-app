@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+server/node_modules
+client/node_modules
+*/node_modules
+
+server/.env
+*/.env
+
+
+# env files
+.env
+.env.test
+.env.prod
+.env.dev
+*.env 
+env.*
+
+
+# Nuxt.js build / generate output
+.nuxt
+dist
